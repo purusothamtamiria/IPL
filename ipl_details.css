@@ -1,0 +1,30 @@
+.bg-container{
+    background-image: url("https://st.adda247.com/https://www.careerpower.in/blog/wp-content/uploads/2023/03/22221314/ipl-schedule-2023.png");
+    background-size: cover;
+    height: 100vh;
+}
+.ipl-card{
+    background-color: white;
+    border-top-right-radius: 10px;
+    border-top-left-radius: 10px;
+    text-align: center;
+}
+.button{
+background-color: blue;
+}
+.ipl-teams-container{
+    background-image: url("https://cdn.wionews.com/sites/default/files/2023/02/24/334668-ipl-captains.png");
+    background-size: cover;
+    height: 100vh;
+}
+.ipl-teams-card{
+    background-color: white;
+    border-radius: 20px;
+    width:500px;
+    margin: 20px;
+    padding: 20px;
+}
+.chennai-image{
+    height: 80px;
+    width: 80px;
+}
